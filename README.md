@@ -27,8 +27,10 @@
  * Q10 How are job titles distributed in the company?
  * q11 How have employee hire counts varied over time?
 # Dashboard
-![HR2](https://github.com/offwitt0/Analysing-HR-data-using-SQL-and-Power-BI/assets/81443480/793be451-37af-42c9-a673-edf4e1d89e40)
+
 ![HR1](https://github.com/offwitt0/Analysing-HR-data-using-SQL-and-Power-BI/assets/81443480/653d4202-72e4-440f-b422-e99729286966)
+
+![HR2](https://github.com/offwitt0/Analysing-HR-data-using-SQL-and-Power-BI/assets/81443480/793be451-37af-42c9-a673-edf4e1d89e40)
 
 
 © offwitt0
