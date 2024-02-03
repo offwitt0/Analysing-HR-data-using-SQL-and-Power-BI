@@ -15,14 +15,14 @@
     Data Visualization:
     
 # Questions:
-  Q1 What's the age distribution in the company?
-  Q2 What's the gender breakdown in the company?
-  Q3 How does gender vary across departments and job titles?
-  Q4 What's the race distribution in the company?
-  Q5 What's the average length of employment in the company?
-  Q6 Which department has the highest turnover rate?
-  Q7 What is the tenure distribution for each department?
-  Q8 How many employees work remotely for each department?
-  Q9 What's the distribution of employees across different states?
-  Q10 How are job titles distributed in the company?
-  q11 How have employee hire counts varied over time?
+ * Q1 What's the age distribution in the company?
+ * Q2 What's the gender breakdown in the company?
+ * Q3 How does gender vary across departments and job titles?
+ * Q4 What's the race distribution in the company?
+ * Q5 What's the average length of employment in the company?
+ * Q6 Which department has the highest turnover rate?
+ * Q7 What is the tenure distribution for each department?
+ * Q8 How many employees work remotely for each department?
+ * Q9 What's the distribution of employees across different states?
+ * Q10 How are job titles distributed in the company?
+ * q11 How have employee hire counts varied over time?
