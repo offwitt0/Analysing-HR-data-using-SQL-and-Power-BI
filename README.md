@@ -1,6 +1,6 @@
 # HR DATA ANALYSIS - SQL SERVER / POWER BI
 
-  This project dives deep into the realm of data analysis using SQL and Power BI to uncover important human resource insights that can greatly benefit the company. Featuring eye-catching dashboards offer crucial HR metrics like employee turnover, diversity, recruitment      efficacy and performance evaluations. These help HR professionals make informed decisions and strategic workforce planning.
+  This project dives deep into the realm of data analysis using SQL and Power BI to uncover important human resource insights that can greatly benefit the company. Featuring eye-catching dashboards offer crucial HR metrics like employee turnover, diversity, recruitment efficacy and performance evaluations. These help HR professionals make informed decisions and strategic workforce planning.
 
 # Source Data:
 
@@ -26,5 +26,9 @@
  * Q9 What's the distribution of employees across different states?
  * Q10 How are job titles distributed in the company?
  * q11 How have employee hire counts varied over time?
+# Dashboard
+![HR2](https://github.com/offwitt0/Analysing-HR-data-using-SQL-and-Power-BI/assets/81443480/793be451-37af-42c9-a673-edf4e1d89e40)
+![HR1](https://github.com/offwitt0/Analysing-HR-data-using-SQL-and-Power-BI/assets/81443480/653d4202-72e4-440f-b422-e99729286966)
+
 
 © offwitt0
